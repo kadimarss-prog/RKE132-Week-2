@@ -3,7 +3,7 @@
 # git status
 # git commit -m "Message"
 # git remote add origin => Link githubi repositist nt git remote add origin https://github.com/kadimarss-prog/RKE151-Week-2.git
-# git push -u oigin master
+# git push -u origin master
 
 
 """mis päev on homme (töö või puhkus) ning väljastab sisu
